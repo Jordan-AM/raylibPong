@@ -1,0 +1,6 @@
+C:\Users\Micro\source\repos\Prototype1\x64\Debug\raylib.dll
+C:\Users\Micro\source\repos\Prototype1\x64\Debug\glfw3.dll
+C:\Users\Micro\source\repos\Prototype1\raylibCppPong\x64\Debug\Prototyp.707BAD96.Up2Date
+C:\raylibPong\x64\Debug\raylib.dll
+C:\raylibPong\x64\Debug\glfw3.dll
+C:\raylibPong\raylibCppPong\x64\Debug\Prototyp.707BAD96.Up2Date

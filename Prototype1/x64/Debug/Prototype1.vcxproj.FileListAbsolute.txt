@@ -1,0 +1,3 @@
+C:\Users\Micro\source\repos\Prototype1\x64\Debug\raylib.dll
+C:\Users\Micro\source\repos\Prototype1\x64\Debug\glfw3.dll
+C:\Users\Micro\source\repos\Prototype1\Prototype1\x64\Debug\Prototyp.707BAD96.Up2Date

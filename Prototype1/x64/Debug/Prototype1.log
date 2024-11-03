@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\Micro\source\repos\Prototype1\main.cpp(41,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micro\source\repos\Prototype1\main.cpp(41,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Micro\source\repos\Prototype1\main.cpp(41,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Micro\source\repos\Prototype1\main.cpp(81,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Micro\source\repos\Prototype1\main.cpp(81,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Micro\source\repos\Prototype1\main.cpp(98,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micro\source\repos\Prototype1\main.cpp(113,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micro\source\repos\Prototype1\main.cpp(149,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micro\source\repos\Prototype1\main.cpp(154,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micro\source\repos\Prototype1\main.cpp(155,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Micro\source\repos\Prototype1\main.cpp(161,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Prototype1.vcxproj -> C:\Users\Micro\source\repos\Prototype1\x64\Debug\Prototype1.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
