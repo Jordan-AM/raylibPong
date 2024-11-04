@@ -4,7 +4,6 @@
 #include <iostream>
 #include <string>
 #include "raylib.h"
-#include <math.h>
 
 using namespace std;
 
@@ -81,6 +80,7 @@ public:
 		if (vertically)
 			if (position.y + radius >= GetScreenHeight() || position.y - radius <= 0) speed_y *= -1;
 	}
+
 	void MoveBall() {
 		// Inputs to move ball
 		// This has nothing to do with the game, I just felt like making it
@@ -89,6 +89,7 @@ public:
 		if (IsKeyDown(KEY_UP)) position.y -= speed_y;
 		if (IsKeyDown(KEY_DOWN)) position.y += speed_y;
 	}
+
 	void ScreenWrapping() {
 		// Screen wrapping
 		// This has nothing to do with the game, I just felt like making it
